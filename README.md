@@ -21,13 +21,16 @@
 ## 截图
 ### 主页
 ![11071](https://s1.galgame.fun/imgb/u55/20260601_6a1d43338429a.png)
+### 微信页面调试
+![33333](https://s1.galgame.fun/imgb/u55/20261010_6ac9d1fd4f113.png)
+[![22222](https://s1.galgame.fun/imgb/u55/20261010_6ac9d1fc90622.png)](https://s1.galgame.fun/imgb/u55/20261010_6ac9d1fc90622.png)
 ### 云函数捕获
 ![11069](https://s1.galgame.fun/imgb/u55/20260601_6a1d4333632a4.png)
 ### wx.api捕获
 ![11072](https://s1.galgame.fun/imgb/u55/20260601_6a1d43338219d.png)
 ### 反编译文件编辑搜索
 ![11073](https://s1.galgame.fun/imgb/u55/20260601_6a1d433372934.png)
-### Frist-MCP
+### Frist-MCP 50工具
 ![11070](https://s1.galgame.fun/imgb/u55/20260601_6a1d433358324.png)
 ![11074](https://s1.galgame.fun/imgb/u55/20260601_6a1d43367a592.png)
 ### 自动更新
